@@ -14,7 +14,7 @@ import Image6 from './images/image6.png';
 import Image7 from './images/image7.png';
 import Clock from './icons/clock.png'
 import Calendar from './icons/calender.png'
-import Menu from './icons/Menu.png'
+import Menu from './icons/menu.png'
 
 
 const assets = {
